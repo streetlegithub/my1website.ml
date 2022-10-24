@@ -126,9 +126,8 @@
     // we display result to the user in delayed mode 
     //to update DOM elements just before the alert
     setTimeout(function() {
-      alert('You made ' + score + ' clicks in ' + duration + 
-      ' seconds. It is ' + clicsBySeconds + 
-      ' clicks by seconds. Try again!');
+      alert(You got ' + clicsBySeconds + 
+      'CPS');
     }, 10);
   }
   // we set a click event listener on the start button
