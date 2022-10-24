@@ -66,7 +66,6 @@
 </style>
 </head>
 <body>
-  <img id="logo" src="cursor.png" />
   <div id="content">
     Timer: <span id="timer"></span><br/>
     Score: <span id="score"></span><br/>
