@@ -66,7 +66,6 @@
 </style>
 </head>
 <body>
-  <img id="logo" src="cursor.png" />
   <div id="content">
     Timer: <span id="timer"></span><br/>
     Score: <span id="score"></span><br/>
@@ -77,7 +76,7 @@
   </div>
   <script type="text/javascript">
     var score; // to store the current score
-    var duration = 10; // 10 seconds
+    var duration = 5; // 5 seconds
     var startTime; // start time
     var ended = true; // boolean indicating if game is ended
     // we get DOM References for some HTML elements
