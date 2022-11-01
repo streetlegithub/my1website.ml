@@ -1,5 +1,4 @@
 <head>
-<h1>streetle's CPS Test</h1>
 
 	<title>streetle's CPS Test</title>
 
