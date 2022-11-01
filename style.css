@@ -19,7 +19,7 @@ body {
 	height: 100%;
 	width: 0px;
 	background-color: rgb(67, 168, 239);
-	transition: width 10s linear;
+	transition: width 5s linear;
 }
 
 #btn {
